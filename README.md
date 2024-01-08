@@ -61,4 +61,4 @@ We have build a custom multiclass classification model using the CNN Architectur
 - Though the accuracy is still low, which we can increase by doing a few more tuning and testing various parameters for each model.
 
 ## Contact
-Created by [@SonamKul9527] - feel free to contact me!
+Created by vishuraj.65@gmail.com feel free to contact me!
